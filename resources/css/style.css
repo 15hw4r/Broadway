@@ -1,0 +1,42 @@
+html{
+  font-family: helvetica;
+}
+h1 {
+  font-size: 70px;
+  color: white;
+  background-image: url("../images/the-flatiron-building.png");
+  font-weight: bold;
+  text-align: center;
+}
+.background{
+  background-image: url("../images/the-flatiron-building.png");
+}
+h3{
+  font-size: 18px;
+  text-align: center;
+  color: white;
+}
+h2{
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+}
+h4{
+  font-size: 23px;
+  font-weight: bold;
+  text-align: center;
+  font-weight: bold;
+}
+p{
+  text-align: center;
+  font-size: 14px;
+}
+.white{
+  color: white;
+  background-image: url("../images/the-flatiron-building.png");
+}
+h6{
+  color: white;
+  background-color: dimgray;
+  font-size: 11px;
+}
